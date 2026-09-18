@@ -6,7 +6,7 @@
 - Semelhança de Triângulo
 - Relações Métricas no Triângulo Retângulo
 - Relações Trigonométricas no Triângulo Retângulo, Leis dos Senos e Cossenos
-- Quadriláteros
+- [Quadriláteros](quadrilateros/README.md)
 - Circunferências e Círculos
 - Áreas e Perímetros
 

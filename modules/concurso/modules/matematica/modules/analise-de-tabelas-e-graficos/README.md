@@ -236,7 +236,20 @@
 
 
 
+**TÍTULO:** #3838014 CPCON UEPB - 2026 - Educador Físico (Pref Condado (PB)) (e mais 17 concursos)  
+**LINK:** https://www.tecconcursos.com.br/questoes/3838014  
+**TÓPICO:** Interpretação de Gráficos e Tabelas  
+**STATUS:** 1/0  
 
+<details>
+
+<summary>DICAS</summary>
+
+<br/>
+
+- Aplique a fórmula para cada linha (região) da tabela.
+
+</details>
 
 
 
