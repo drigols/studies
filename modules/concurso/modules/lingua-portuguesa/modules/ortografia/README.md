@@ -2,17 +2,236 @@
 
 ## Conteúdo
 
-- **Grafia e Emprego de Iniciais Maiúsculas:**
-  - [Quais as regras mais comuns de Siglas (e Acrônomos)?](#siglas-acronomos)
-  - [O que são Prefixos e Pseudoprefixos?](#prefixos-pseudoprefixos)
-  - [Quais as regras mais comuns de utlização do hífen (-)?](#emprego-do-hoifen)
-  - [Qual a diferença de Conselho x Concelho?](#conselho-x-concelho)
-  - [Qual a diferença de Seção (ou secção), sessão, e cessão?](#secao-sessao-cessao)
+- [Grafia e Emprego de Iniciais Maiúsculas](modules/emprego-de-iniciais-maiusculas/README.md)
+- Parônimos e Homônimos
+- Emprego do hífen
+- Acentuação Gráfica: Proparoxítonas, Paroxítonas, Oxítonas e Hiatos
+- Acentuação Gráfica: acento diferencial
+
+
+
+- **Resumos passivos:**
+  - **Grafia e Emprego de Iniciais Maiúsculas:**
+    - [Quais as regras mais comuns de Siglas (e Acrônomos)?](#siglas-acronomos)
+    - [O que são Prefixos e Pseudoprefixos?](#prefixos-pseudoprefixos)
+    - [Quais as regras mais comuns de utlização do hífen (-)?](#emprego-do-hoifen)
+    - [Qual a diferença de Conselho x Concelho?](#conselho-x-concelho)
+    - [Qual a diferença de Seção (ou secção), sessão, e cessão?](#secao-sessao-cessao)
 <!---
 [WHITESPACE RULES]
 - Same topic = "20" Whitespace character.
 - Different topic = "200" Whitespace character.
 --->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--- ( Questões ) --->
+
+---
+
+<div id="questions"></div>
+
+## Questões
+
+> Em breve...
 
 
 
@@ -164,16 +383,6 @@ O plural das siglas acima será apenas adicionando um **"s"** no fim das siglas.
 
 
 
-
-
-
-
-
-
-
-
-
-
 ---
 
 <div id="prefixos-pseudoprefixos"></div>
@@ -310,16 +519,6 @@ Um **pseudoprefixo** é um elemento que possui características semelhantes às 
 | **Trans-**        | Através, além, mudança                 | **transatlântico**; **transporte**; **transplantar**             |
 
 </details>
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -652,16 +851,6 @@ A regra está expressamente prevista na Base XVII do Acordo Ortográfico.
 
 
 
-
-
-
-
-
-
-
-
-
-
 ---
 
 <div id="conselho-x-concelho"></div>
@@ -706,16 +895,6 @@ Com **c**, é uma palavra usada principalmente em **Portugal** para designar uma
 Assim, se a questão falar de **Conselho Municipal, Conselho Tutelar, Conselho de Administração ou conselho como recomendação**, é **CONSELHO**. Se estiver falando de uma **divisão administrativa de Portugal**, é **CONCELHO**.
 
 </details>
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -798,22 +977,3 @@ Essas três palavras são **homófonas**, ou seja, possuem a mesma pronúncia ou
 ---
 
 **Rodrigo** **L**eite da **S**ilva - **rodrigols89**
-
-<details>
-
-<summary></summary>
-
-<br/>
-
-RESPOSTA
-
-```bash
-
-```
-
-![img](images/)  
-
-</details>
-
-
-

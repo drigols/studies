@@ -243,7 +243,23 @@
 
 ## Questões
 
+**TÍTULO:** Q4262443 | Ano: 2026 Banca: CPCON Órgão: UEPB Prova: CPCON - 2026 - UEPB - Auxiliar de Laboratório de Fotografia  
+**LINK:** https://www.qconcursos.com/questoes-de-concursos/questoes/7fb9e73f-a2  
+**TÓPICO:** Matemática Aritmética e Problemas , Números Primos e Divisibilidade  
+**STATUS:** 0/1
 
+<details>
+
+<summary>DICAS</summary>
+
+<br/>
+
+- Se você souber qual dos números nas opções listadas são divisíveis por 8432, você sabe qual pode ser utilizado para dividir essa quantidade de bonequinhos.
+- Ou você pode ismplesmente dividir 8432 por cada uma das opções (o que vai fazer você perde um tempinho).
+
+</details>
+<br/>
+<br/>
 
 
 
